@@ -2,6 +2,12 @@
 
 **Description :** Conception d'une application Python pour faciliter la communication entre élèves en difficulté scolaire et tuteurs bénévoles.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Mathieusc/LearnAtHome-WebApp/blob/main/learn%40home_web.png" alt="Image 1" width="75%">
+  <img src="https://github.com/Mathieusc/LearnAtHome-WebApp/blob/main/learn%40home_mobile.png" alt="Image 2" width="15%">
+</div>
+
+
 **Compétences Évaluées :**
 - Prototypage de solutions techniques avec des modèles de domaine et maquettes.
 - Définition des exigences fonctionnelles à partir des besoins client.
