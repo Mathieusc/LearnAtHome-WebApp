@@ -1,4 +1,4 @@
-## Learn@Home Web App (Projet fictif OpenClassrooms n° 3)
+## Learn@Home Web App (Projet OpenClassrooms n° 3)
 
 **Description :** Conception d'une application Python pour faciliter la communication entre élèves en difficulté scolaire et tuteurs bénévoles.
 
